@@ -1,11 +1,11 @@
-# LiveShareEditor
+# rlja
 
-[![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/kadoshita/live-share-editor.svg)](https://github.com/kadoshita/live-share-editor)
+[![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/kadoshita/rlja.svg)](https://github.com/kadoshita/rlja)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-![](https://github.com/kadoshita/live-share-editor/workflows/Build/badge.svg)
-![](https://github.com/kadoshita/live-share-editor/workflows/Build%20and%20Deploy%20to%20Azure/badge.svg)
-[![Status](https://img.shields.io/website?down_message=offline&label=status&up_message=online&url=https%3A%2F%2Flive-share-editor.azurewebsites.net)](https://live-share-editor.azurewebsites.net/)
-[![Uptime](https://img.shields.io/uptimerobot/ratio/m781898054-5bece018a6ccbb8901c61b80)](https://live-share-editor.azurewebsites.net/)
+![](https://github.com/kadoshita/rlja/workflows/Build/badge.svg)
+![](https://github.com/kadoshita/rlja/workflows/Build%20and%20Deploy%20to%20Azure/badge.svg)
+[![Status](https://img.shields.io/website?down_message=offline&label=status&up_message=online&url=https%3A%2F%2Frlja.azurewebsites.net)](https://rlja.azurewebsites.net/)
+[![Uptime](https://img.shields.io/uptimerobot/ratio/m781898054-5bece018a6ccbb8901c61b80)](https://rlja.azurewebsites.net/)
 
 ソースコードをリアルタイムで共有できるオンラインエディタ
 
@@ -26,8 +26,8 @@ Live Share Editorは1:Nでコーディングの状況をリアルタイムに配
 # 実行
 
 ```sh
-git clone https://github.com/kadoshita/live-share-editor.git
-cd live-share-editor/ClientApp
+git clone https://github.com/kadoshita/rlja.git
+cd rlja/ClientApp
 npm i
 cd ../../
 dotnet run
